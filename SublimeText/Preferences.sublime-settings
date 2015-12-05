@@ -1,0 +1,43 @@
+{
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/User/Monokai (SL).tmTheme",
+	"draw_white_space": "selection",
+	"ensure_newline_at_eof_on_save": true,
+	"folder_exclude_patterns":
+	[
+		".sass-cache",
+		".git",
+		".idea"
+	],
+	"font_size": 13,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"index_exclude_patterns":
+	[
+		"*.log",
+		"*node_modules*",
+		"*.git*",
+		"*.idea*"
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"material_theme_disable_folder_animation": true,
+	"overlay_scroll_bars": "enabled",
+	"rulers":
+	[
+		120
+	],
+	"tab_size": 2,
+	"theme": "Default.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"word_wrap": true
+}
