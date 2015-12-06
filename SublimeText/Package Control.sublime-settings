@@ -1,0 +1,21 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"BracketHighlighter",
+		"EditorConfig",
+		"Emmet",
+		"HTML-CSS-JS Prettify",
+		"Jade",
+		"Package Control",
+		"SublimeLinter",
+		"SublimeLinter-contrib-scss-lint",
+		"SublimeLinter-contrib-stylelint",
+		"SublimeLinter-jscs",
+		"SublimeLinter-jshint",
+		"Syntax Highlighting for Sass"
+	]
+}
