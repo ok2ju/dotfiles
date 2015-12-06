@@ -5,6 +5,8 @@ Dotfiles and Configurations
 
 Copy and paste all files into `Packages/User/`
 
+List of installed plugins you can find [here](https://github.com/ok2ju/dotfiles/blob/master/SublimeText/sublime-plugins.md).
+
 ## WebStorm
 
 To import settings from a JAR archive:
