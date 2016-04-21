@@ -1,0 +1,8 @@
+{
+	"editor.tabSize": 2,
+	"editor.insertSpaces": true,
+  "stylelint.enable": true,
+  "files.autoSave": "off",
+  "explorer.workingFiles.maxVisible": 5,
+  "editor.renderWhitespace": true
+}
