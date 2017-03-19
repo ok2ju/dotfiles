@@ -1,8 +1,18 @@
 {
-	"editor.tabSize": 2,
-	"editor.insertSpaces": true,
-  "stylelint.enable": true,
+  "editor.tabSize": 2,
+  "editor.insertSpaces": true,
   "files.autoSave": "off",
-  "explorer.workingFiles.maxVisible": 5,
-  "editor.renderWhitespace": true
+  "editor.renderWhitespace": "boundary",
+  "eslint.enable": true,
+  "stylelint.enable": true,
+  "javascript.validate.enable": false,
+  "editor.rulers": [100],
+  "typescript.check.tscVersion": false,
+  "explorer.autoReveal": false,
+  "editor.renderLineHighlight": "all",
+  "workbench.activityBar.visible": true,
+  "explorer.openEditors.visible": 0,
+  "workbench.welcome.enabled": false,
+  "workbench.colorTheme": "One Monokai",
+  "workbench.iconTheme": "vs-seti"
 }
